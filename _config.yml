@@ -82,7 +82,7 @@ repository: su-chang/su-chang.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: su_chang
+github_username: su-chang
 
 # ---------------- #
 #      Comments    #
@@ -105,6 +105,6 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [Java, C++, Python, Design Patterns]
+skill_software_keywords: [Nodejs, JavaScript, HTML5, CSS3, React Native]
 skill_mobile_app_keywords: [Android, Reverse Engineering]
 skill_windows_keywords: [Win32 SDK, DuiLib, WTL, COM, WinDbg]
